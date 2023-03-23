@@ -4,7 +4,7 @@
 ## Integrantes do grupo
 
 - Davi Lima
-- Ederson Souza
+- Ederson Sousa
 - Sâmila Milena
 - Roberta Caroline
 - Marcio Filadelfo
