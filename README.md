@@ -5,8 +5,8 @@
 <p align="center">API de um sistema de filmes</p>
 
 <div align="center">
-É uma aplicação web planejada pela equipe (Davi Lima, Ederson Sousa, Sâmila Milena, Roberta Caroline, Marcio Filadelfo, Bruno Pires).
-Desenvolvimento comtempla o CRUD e conexão com banco de dados.
+É uma aplicação web planejada pela equipe (Davi Lima, Ederson Sousa, Sâmila Milena, Roberta Caroline, Marcio Filadelfo e Bruno Pires).
+Desenvolvimento contempla o CRUD e conexão com banco de dados.
 
 <p align="justify">O sistema contém filmes cadastrados, onde será possivel listar todos os filmes, buscar por apenas um e também trazer de forma aleátoria um por vez.</p>
 </div>
