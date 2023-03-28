@@ -19,7 +19,7 @@ public class GetRandomMovieService {
         final long count = movieRepository.count();
         final int index = (int) (Math.random() * count);
         return Optional.ofNullable(movieRepository.findAll(PageRequest.of(index, 1)).stream().findFirst().orElseThrow(
-                () -> new NotFoundException("validation.movie.notfound")
+                () -> new NotFoundException("validation.movie.notfound", index)
         ));
     }
 }

@@ -18,7 +18,7 @@ public class GetMovieByImdbIdService {
     public Optional<MovieEntity> get(String id) {
 
         return Optional.ofNullable(movieRepository.findByImdbIdIgnoreCase(id).orElseThrow(
-                () -> new NotFoundException("validation.movie.notfound")
+                () -> new NotFoundException("validation.movie.notfound", id)
         ));
     }
 }
