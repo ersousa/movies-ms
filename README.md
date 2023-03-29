@@ -29,7 +29,8 @@ Desenvolvimento contempla o CRUD e conexão com banco de dados.
 
 <div align="center">
 
-## Tecnologias usadas:
+
+ ## Tecnologias usadas:
 
 
 <table>
